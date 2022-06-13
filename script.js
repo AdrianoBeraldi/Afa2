@@ -69,7 +69,7 @@ const jump = () => {
 }
 
 document.addEventListener('keydown',  jump);
-document.addEventListener('onclick',  jump);
+
 
 
 
