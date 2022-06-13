@@ -57,6 +57,7 @@ document.addEventListener('keydown', start);
 
 
 
+
 /*================ Função Pulo ===================*/ 
 
 const jump = () => {
@@ -67,7 +68,8 @@ const jump = () => {
     }, 1500); 
 }
 
-document.addEventListener('keydown', jump);
+document.addEventListener('keydown',  jump);
+document.addEventListener('onclick',  jump);
 
 
 
