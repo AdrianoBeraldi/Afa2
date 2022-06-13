@@ -212,7 +212,7 @@ body{
     width: 200px;
     padding-top: 0px;
     z-index: 1;
-    animation: clouds-animation-3 10s infinite linear;
+    animation: clouds-animation-3 8s infinite linear;
 }
 
 
